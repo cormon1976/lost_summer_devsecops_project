@@ -4,6 +4,7 @@
     - [Technology Focus](#Technology-Focus)
     - [Monday Meeting Overview](#Monday-Meeting-Overview)
     - [Monday - Thursday Tasks](#Monday---Thursday-Tasks)
+      - [WATCH / LEARN](#WATCH--LEARN)
       - [DO](#DO)
     - [Student Feedback: (To be collected on the Thursday session)](#Student-Feedback-To-be-collected-on-the-Thursday-session)
     - [Thursday Meeting Overview](#Thursday-Meeting-Overview)
@@ -40,8 +41,8 @@ We will describe the project and the technologies we are going to use. We will t
 - Understand Github authentication mechanisms.
 - Go into the student_code folder pick a number and change the number to your name.
 - Submit your change back to this main repo.
-- Set this up on your own repo https://github.com/actions/starter-workflows/blob/94b77c19d0c15b2010a05c2dd7d1cac0c19b4b2a/ci/blank.yml
-- As a group set this up https://github.com/marketplace/actions/slack-notify on this main repo. Test on your own repo.
+- If you have time Set this up on your own repo https://github.com/actions/starter-workflows/blob/94b77c19d0c15b2010a05c2dd7d1cac0c19b4b2a/ci/blank.yml
+-  If you have time as a group set this up https://github.com/marketplace/actions/slack-notify on this main repo. Test on your own repo.
   - We may need to ask for SLACK API Key from Owen.
 
 
