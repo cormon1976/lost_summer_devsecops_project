@@ -75,3 +75,5 @@ Project is focused with:
 - https://samsclass.info/
 - https://github.com/dineshshetty/Android-InsecureBankv2
 - https://owaspsamm.org/model/
+- https://lab.github.com/install
+
