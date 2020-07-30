@@ -6,8 +6,8 @@
     - [Monday - Thursday Tasks](#Monday---Thursday-Tasks)
       - [WATCH / LEARN](#WATCH--LEARN)
       - [DO](#DO)
-    - [Student Feedback: (To be collected on the Thursday session)](#Student-Feedback-To-be-collected-on-the-Thursday-session)
     - [Thursday Meeting Overview](#Thursday-Meeting-Overview)
+    - [Student Feedback: (To be collected on the Thursday session)](#Student-Feedback-To-be-collected-on-the-Thursday-session)
     - [Thursday - Monday Tasks](#Thursday---Monday-Tasks)
       - [Watch / Read](#Watch--Read)
 
@@ -46,22 +46,34 @@ We will describe the project and the technologies we are going to use. We will t
   - We may need to ask for SLACK API Key from Owen.
 
 
+
+#### Thursday Meeting Overview
+
+Catchup with students update and get consensus on progress
+Discuss full git pr work flowback to main repo. ![PR1](../diagrams/prworkflow1.png) 
+![PR2](../diagrams/pr2.png) 
+
 #### Student Feedback: (To be collected on the Thursday session)
 
  - Solicit Feedback and open discussion.
 
-
-#### Thursday Meeting Overview
-
-N/A
-
 #### Thursday - Monday Tasks
 
-N/A
+For students new to git move onto to github action.
+For students not new to git move onto to github action that have a focus on security in your own repo.
+We will stick to python for this for simplicity so get a python web package of your own making or clone one and build a pipelines with:
+
+Sample Flask app to clone and test found [here](https://github.com/macloo/basic-flask-app)
+
+    -  Enable Python Safety (SAST) Build Step
+    -  Enable Crashtest Security (DAST) Build Step (see crashtest link below)
+    -  Eanble SYNK Security (OSS) Build Step
 
 ##### Watch / Read 
-
-N/A
+- https://www.youtube.com/watch?v=rgbCcBNZcdQ (simple pr)
+- https://wiki.crashtest-security.com/devsecops-pipeline
+- https://github.com/snyk/actions
+- 
 
 
 
