@@ -33,12 +33,11 @@ jobs:
         echo test, and deploy your project.
     
     - name: Slack Notify
-      uses: rtCamp/action-slack-notify@v2.1.0
+      uses: asharc/lost_summer_mobile_security_project@master
       env:
-        SLACK_CHANNEL: general
+        SLACK_CHANNEL: project6-devsecops
         SLACK_COLOR: '#3278BD'
         SLACK_ICON: https://github.com/rtCamp.png?size=48
-        SLACK_MESSAGE: 'Post Content :rocket:'
-        SLACK_TITLE: Post Title
-        SLACK_USERNAME: rtCamp
+        SLACK_TITLE: Message
+        SLACK_USERNAME: asharc
         SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
